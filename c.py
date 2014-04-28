@@ -4,3 +4,5 @@ class C(object):
         print("c")
 
 C().c()
+C().c()
+C().c()
