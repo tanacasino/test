@@ -4,3 +4,5 @@ class A(object):
         print("a")
 
 A().a()
+A().a()
+A().a()
