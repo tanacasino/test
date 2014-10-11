@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 
 class C(object):
     def c(self):
