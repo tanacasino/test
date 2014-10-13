@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+
 class B(object):
     def b(self):
         print("b")
