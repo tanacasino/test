@@ -9,3 +9,5 @@ class C(object):
 C().c()
 C().c()
 C().c()
+C().c()
+
